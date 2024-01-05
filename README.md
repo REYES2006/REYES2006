@@ -13,4 +13,3 @@
 <h2 align="center"> MIS PROYECTOS </h2>
 
 <a href="https://github.com/REYES2006/BOT-C.D.R">![github card](https://github-readme-stats.vercel.app/api/pin/?username=REYES2006&repo=BOT-C.D.R&theme=merko)</a>
-<a href="https://github.com/MESIASREYES/BOT-C.D.R-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MESIASREYES&repo=BOT-C.D.R-MD&theme=merko)</a>
