@@ -4,6 +4,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/addf80dc3c8ffd5db8a47.png" alt="BOT-C.D.R" width="900"/>
 </p>
+
 <a href="https://wa.me/50369907657" target="blank"><img src="https://img.shields.io/badge/Creador-33FF00?style=for-the-badge&logo=whatsapp&logoColor=red" /></a>
 [![Grupos](https://img.shields.io/badge/Grupo-33FF00?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn) 
 
